@@ -11,7 +11,9 @@ Email Me 📨✉️
 🧑‍💻*Ask me about:* Collaboration, Tech Support
 
 🔗🖥️*How to reach me:* pavanbukka4@gmail.com *
+
 😀*Pronouns:* Pawankumar
+
 🤩*Fun fact:* I Love Tech and Tech Love Me
 
 
