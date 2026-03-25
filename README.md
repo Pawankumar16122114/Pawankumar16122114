@@ -15,11 +15,11 @@
 
 ## 🧬 SYSTEM STATUS
 
-```diff
-+ Name        : Pawankumar
-+ Role        : Software Engineer
-+ Location    : Bangalore, India
-+ Status      : Building | Learning | Growing 🚀
+```diff---<div align="center">
+ Name        : Pawankumar
+ Role        : Software Engineer
+ Location    : Bangalore, India
+ Status      : Building | Learning | Growing 🚀
 ```
 
 ---
@@ -62,17 +62,6 @@ Email Me 📨✉️
 😀*Pronouns:* Pawankumar
 
 🤩*Fun fact:* I Love Tech and Tech Love Me
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Pavankumar16122114) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pavank797) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pavank797) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawankumar-bukka-333568259/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/1rQT6QF3A)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pavanbukka4) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@pavankumaredits8036) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavanbukka4@gmail.com) 
 
 <!-- Snake Game Repo View -->
 
@@ -132,4 +121,25 @@ Email Me 📨✉️
 Build. Learn. Execute."
 ```
 
----
+---<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&random=false&width=600&height=60&lines=Thanks+for+visiting+my+profile!;Let's+collaborate+on+something+amazing!;Always+open+to+new+opportunities+and+connections!" alt="Typing SVG" />
+  </a>
+  
+ 
+## 🌐 Socials Connect:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Pavankumar16122114) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pavank797) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pavank797) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawankumar-bukka-333568259/)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/1rQT6QF3A)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pavanbukka4) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@pavankumaredits8036) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavanbukka4@gmail.com) 
+
+  </div>
+  </p>
+</div>
+
+<!-- Animated Footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,24,30&height=170&section=footer&text=Let's%20Connect%20and%20Innovate!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=70" />
