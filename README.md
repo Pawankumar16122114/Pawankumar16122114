@@ -121,11 +121,8 @@ Email Me 📨✉️
 Build. Learn. Execute."
 ```
 
----<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&random=false&width=600&height=60&lines=Thanks+for+visiting+my+profile!;Let's+collaborate+on+something+amazing!;Always+open+to+new+opportunities+and+connections!" alt="Typing SVG" />
-  </a>
-  
+<div align="center">
+
  
 ## 🌐 Socials Connect:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Pavankumar16122114) 
@@ -141,5 +138,10 @@ Build. Learn. Execute."
   </p>
 </div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A177FE&center=true&vCenter=true&random=false&width=600&height=60&lines=Thanks+for+visiting+my+profile!;Let's+collaborate+on+something+amazing!;Always+open+to+new+opportunities+and+connections!" alt="Typing SVG" />
+  </a>
+  
 <!-- Animated Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,4,12,24,30&height=170&section=footer&text=Let's%20Connect%20and%20Innovate!&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=70" />
