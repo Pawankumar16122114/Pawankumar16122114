@@ -55,7 +55,7 @@ Goal:
   ⚡ Designed for the Future ⚡
 </p>
 
-**A passionate Software Engineer ||DevOps Engineer ||
+**A passionate :Software Engineer || :DevOps Engineer || :Android Developer|| :FullStack developer 
 
 Email Me 📨✉️
 *pavanbukka4@gmail.com* For Collaboration/Project or Anything Else.
