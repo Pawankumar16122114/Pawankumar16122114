@@ -12,6 +12,20 @@
 </p>
 
 ---
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/814564b9-95ef-493f-b612-9426b8e01224" alt="Developer Animation" width="100%" style="max-width:900px; border-radius: 8px; margin-top: 16px;"/>
+</div>
+<div align="center">
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Pawankumar16122114&style=for-the-badge&color=blueviolet" alt="profile views"/>
+    <a href="https://github.com/Pawankumar16122114">
+      <img src="https://img.shields.io/github/followers/Pawankumar16122114?color=10b981&logo=github&style=for-the-badge" alt="followers"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pawankumar16122114&label=VISITORS&color=00F7FF&style=flat" />
+</p>
+    </a>
+  </p>
+</div>
 
 ## 🧬 SYSTEM STATUS
 
@@ -36,12 +50,6 @@ Goal:
   - Become top 1% developer
 ```
 
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pawankumar16122114&label=VISITORS&color=00F7FF&style=flat" />
-</p>
 
 <p align="center">
   ⚡ Designed for the Future ⚡
