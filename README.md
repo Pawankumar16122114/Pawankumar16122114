@@ -104,6 +104,19 @@ Email Me 📨✉️
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pawankumar16122114&theme=react-dark&hide_border=true" />
 </p>
+My Contributions Graph:
+
+<br/>
+<!-- <p align="center">
+    <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pawankumar16122114&theme=tokyo-night&hide_border=True&radius=10" alt="Pawankumar16122114" />
+</p> -->
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pawankumar16122114&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pawankumar16122114&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pawankumar16122114&theme=github_dark" />
+</p>
+
 
 ---
 
