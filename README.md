@@ -1,5 +1,4 @@
-# 💫Hi 👋, I'm Pawankumar
-<!-- 🔥 FUTURISTIC CYBERPUNK README -->
+<p align="center">💫Hi 👋, I'm Pawankumar<p></p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=200&section=header&text=Pawankumar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
@@ -101,6 +100,18 @@ Email Me 📨✉️
 ![](https://github-readme-stats.vercel.app/api?username=Pawankumar16122114&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Pawankumar16122114&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawankumar16122114&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<p align="center">
+  <a href="https://github.com/Pawankumar16122114">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pawankumar16122114&theme=radical&hide_border=true&background=0D1117&stroke=A177FE&ring=A177FE&fire=A177FE" alt="Pawankumar's GitHub Streak"/>
+  </a>
+</p>
+
+<div align="center">
+  <table>
+    <tr>
+  </table>
+</div>
 
 ## 🧠 NEURAL ACTIVITY GRAPH
 
