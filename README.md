@@ -1,4 +1,4 @@
-# 💫Hi, I'm Pawankumar
+# 💫Hi 👋, I'm Pawankumar
 <!-- 🔥 FUTURISTIC CYBERPUNK README -->
 
 <p align="center">
@@ -83,11 +83,11 @@ Email Me 📨✉️
 ## ⚡ TECH MATRIX
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,kotlin,python,react,nodejs,firebase,mongodb,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,kotlin,python,cpp,react,nodejs,firebase,mongodb,aws,googlecloud,firebase,githubactions,vscode,androidstudio,heroku,xd,gitlab&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,typescript,angular,bootstrap,nextjs,docker,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,typescript,angular,bootstrap,nextjs,docker,git,github,stackoverflow,tensorflow,django,flutter,&theme=dark" />
 </p>
 
 <p align="center">
