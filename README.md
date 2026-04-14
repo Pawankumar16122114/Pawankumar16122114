@@ -83,15 +83,18 @@ Email Me 📨✉️
 ## ⚡ TECH MATRIX
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,kotlin,python,cpp,react,nodejs,firebase,mongodb,aws,googlecloud,firebase,githubactions,vscode,androidstudio,heroku,xd,gitlab&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,kotlin,python,cpp,react,nodejs,firebase,mongodb,aws&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,googlecloud,firebase,githubactions,vscode,androidstudio,heroku,xd,gitlab&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,typescript,angular,bootstrap,nextjs,docker,git,github,stackoverflow,tensorflow,django,flutter,&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=typescript,angular,bootstrap,nextjs,docker,git,github,stackoverflow&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator,aftereffects,tensorflow,django,flutter&theme=dark" />
 </p>
 
 # 📊 GitHub Stats:
