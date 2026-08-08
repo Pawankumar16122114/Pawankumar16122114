@@ -30,7 +30,7 @@
 
 ```diff---<div align="center">
  Name        : Pawankumar
- Role        : Software Engineer
+ Role        : Software Engineer | FullStack Developer 
  Location    : Bangalore, India
  Status      : Building | Learning | Growing 🚀
 ```
@@ -147,6 +147,24 @@ My Contributions Graph:
 [![](https://visitcount.itsvg.in/api?id=Pawankumar16122114&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFA116,100:FF6000&height=200&section=header&text=Pawankumar's%20LeetCode%20Space&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FFA116&size=24&center=true&vCenter=true&width=700&lines=Data+Structures+%26+Algorithms;Problem+Solving+%7C+Java+%7C+C%2B%2B+%7C+Python;Building+Optimal+%26+Clean+Solutions+⚡" />
+</p>
+
+---
+
+## ⚡ ABOUT MY LEETCODE JOURNEY
+
+```yaml
+Developer   : Pawankumar
+Focus       : Core Data Structures, Algorithms, System Logic
+Primary Langs: Java, C++, Python
+Goal        : Master Algorithmic Problem Solving & System Performance 🚀
+```
 ## 🧩 FINAL MESSAGE
 
 ```bash
